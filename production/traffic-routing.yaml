@@ -1,0 +1,5 @@
+- op: add
+  path: /spec/traffic
+  value:
+    - revisionName: quarkus-hello-world-rbd8c8a5
+      percent: 100
